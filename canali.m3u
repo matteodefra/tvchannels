@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="GENERALE",Rai 1 HD
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-ID="rai2.it" tvg-name="IT ▎RAI2 HD" tvg-logo="https://img.logo-cdn.cc/rai2.png" group-title="IT ▎GENERALE",IT ▎RAI2 HD
+#EXTINF:-1 tvg-ID="rai2.it" tvg-name="Rai 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Rai_2_-_Logo_2016.svg" group-title="GENERALE",RAI2 HD
 http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105935
-#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="",Rai 3 HD
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-name="Rai 3 HD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="GENERALE",Rai 3 HD
 https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" group-title="",Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Entertainment",Canale 5 HD
+#EXTINF:-1 tvg-ID="retequattro.it" tvg-name="Rete 4 HD" tvg-logo="https://img.logo-cdn.cc/rete4.png" group-title="GENERALE",RETE4 HD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105937
+#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-name="Canale 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Entertainment",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png" group-title="General",Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
-#EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="General",LA7
-https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-ID="italia1.it" tvg-name="Italia 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Italia_1_logo.svg" group-title="GENERALE",ITALIA1 HD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105939
+#EXTINF:-1 tvg-ID="" tvg-name="LA7 HD" tvg-logo="https://img.logo-cdn.cc/la7.png" group-title="GENERALE",LA7 HD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/316146
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
-https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-ID="nove.it" tvg-name="NOVE FHD" tvg-logo="https://img.logo-cdn.cc/nove.png" group-title="DIVERTIMENTO",NOVE FHD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105764
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://i.imgur.com/sEY21rg.png" group-title="",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="RAI4 FHD" tvg-logo="https://img.logo-cdn.cc/rai4hd.png" group-title="IT ▎GENERALE",RAI4 FHD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105787
+#EXTINF:-1 tvg-ID="rai4.it" tvg-name="RAI4 HD" tvg-logo="https://img.logo-cdn.cc/rai4hd.png" group-title="IT ▎GENERALE",RAI4 HD
+http://line.queen-4k.cc:80/6D2A4754/2F7488F9/316154
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-logo="https://i.imgur.com/O1K1fv4.png" group-title="",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="Entertainment",Iris
